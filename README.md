@@ -38,3 +38,4 @@ Set variable path handling according to OS; should work on either Windows, Mac o
 
 Tested on Windows 7, Kali Linux, Debian 7 (Wheezy).
 
+USELESS !!!
